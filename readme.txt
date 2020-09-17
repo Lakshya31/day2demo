@@ -1,3 +1,3 @@
 hello world Day 2 XDemo
 Is Poll SCM working?
-Yes it is
+No it is not
